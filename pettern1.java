@@ -9,6 +9,7 @@ import java.util.Scanner;
         lines=sc.nextInt();
         space=(lines*2)-2;
         for(int i=1;i<=lines;i++){
+
         
             for(int j=1;j<=i;j++){
                 System.out.print( "*");

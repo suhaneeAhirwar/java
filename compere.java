@@ -1,7 +1,7 @@
 class compere  {
     public static void main(String []args){
         String a="suhanee";
-        String b= "suhane";
+        String b= "suhanee";
         if(a.equals(b)){
             System.out.println("true");
         }

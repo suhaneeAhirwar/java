@@ -6,7 +6,7 @@ class most{
          System.out.println(b.toUpperCase());
        System.out.println(b.concat(a));
        System.out.println(b.length());
-       String d=" ";
+       String d="suhanee";
        System.out.println(d.isEmpty());
        System.out.println(b.charAt(2));
        System.out.println(a.indexOf('H'));
